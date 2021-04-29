@@ -1,6 +1,8 @@
 <?php
-if (1) {
+$isInfo = true;
+if ($isInfo) {
     phpinfo();
 } else {
-    echo "no info";
+    echo "no info\n";
+    echo "please wait...";
 }
