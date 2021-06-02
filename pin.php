@@ -1,2 +1,2 @@
 <?php
-echo "Hello pin7";
+echo "Hello ))";
