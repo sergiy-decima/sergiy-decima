@@ -1,2 +1,2 @@
 <?php
-echo "Hello )) 3x";
+echo "Hello )) 2x";
