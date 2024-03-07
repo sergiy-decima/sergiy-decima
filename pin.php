@@ -1,2 +1,3 @@
 <?php
-echo "Hello )) 4x";
+echo "Hello, my friend!";
+echo "I want to know your name.";
